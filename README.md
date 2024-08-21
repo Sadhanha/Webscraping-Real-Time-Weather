@@ -1,12 +1,10 @@
-# Webscraping-of-Real-Time-Weather
-
 #### *This is a side project*
 
-#### Collaborator: Sadhanha Anand, Cindy Jeon, Mia Lai
+#### Collaborators: Sadhanha Anand, Cindy Jeon, Mia Lai
 
 This project is for a business solution for Lux, an imaginary consumer electronics company. Web scraping weather data can be a solution to their business problem by allowing them to prepare for potential delivery disruptions.
 
-**Business Scenario** : Lux's new product line targets luxury appliance buyers. Real-time weather data (OpenWeatherMap + web scraping) is used to adjust deliveries (MongoDB) to avoid extreme weather disruptions.
+**Business Scenario**: Lux's new product line targets luxury appliance buyers. Real-time weather data (OpenWeatherMap + web scraping) is used to adjust deliveries (MongoDB) to avoid extreme weather disruptions.
 
 **Data Sources** : OpenWeatherMap ("https://openweathermap.org/")
 
